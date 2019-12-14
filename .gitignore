@@ -1,0 +1,6 @@
+*.bs.js
+.bsb.lock
+.idea
+.merlin
+lib
+node_modules

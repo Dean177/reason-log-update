@@ -1,0 +1,16 @@
+{
+  "name": "reason-log-update",
+  "license": "MIT",
+  "version": "3.0.0",
+  "scripts": {
+    "build": "bsb",
+    "test": "node test/run.bs.js"
+  },
+  "peerDependencies": {
+    "log-update": "^3.3.0"
+  },
+  "devDependencies": {
+    "bs-platform": "7.0.1",
+    "log-update": "^3.3.0"
+  }
+}
